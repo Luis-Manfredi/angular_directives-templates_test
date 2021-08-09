@@ -1,0 +1,8 @@
+.elements_flex{
+    display: flex;
+}
+
+ion-icon{
+    margin: auto .3rem;
+    font-size: 1.5em;
+}

@@ -1,0 +1,18 @@
+.c-margin-top{
+    margin-top: auto;
+}
+
+.container_mngr{
+    margin: 0 auto;
+    width: 500px;
+}
+
+span{
+    font-weight: bold;
+}
+
+ion-icon{
+    margin: 0 .2em;
+    font-size: 4em;
+}
+
